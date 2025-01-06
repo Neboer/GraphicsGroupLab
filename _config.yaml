@@ -1,7 +1,8 @@
 # site properties and page defaults
-title: Lab Website Template
-subtitle: by the Greene Lab
-description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
+title: NEU ICMT 渲染组
+subtitle: 东北大学泛虚拟现实研究中心 计算机图形实验室
+short_title: ICMT 渲染组
+description: ICMT 渲染组
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false

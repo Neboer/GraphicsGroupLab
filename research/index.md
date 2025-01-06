@@ -1,24 +1,25 @@
 ---
-title: Research
+title: 研究
 nav:
   order: 1
-  tooltip: Published works
+  tooltip: 公开的期刊文章
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
+# {% include icon.html icon="fa-solid fa-microscope" %}研究
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+泛虚拟现实实验室的研究涵盖各个领域，我们的主要研究方向有……，在……等刊物上均有刊登……
+
+目前，我们的研究主要集中在……，还有……相关的研究在积极投稿中。
 
 {% include section.html %}
 
-## Highlighted
+## 重点研究
 
 {% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
 
 {% include section.html %}
 
-## All
+## 全部研究
 
 {% include search-box.html %}
 

@@ -1,14 +1,13 @@
 ---
-title: Projects
+title: 项目
 nav:
   order: 2
-  tooltip: Software, datasets, and more
+  tooltip: 开发的软件系统等
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Projects
+# {% include icon.html icon="fa-solid fa-wrench" %}项目
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+IMCT渲染组实验室的项目主要有……等。我们和……等企业积极合作，共同开发的项目有……等。
 
 {% include tags.html tags="publication, resource, website" %}
 
@@ -16,12 +15,12 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% include section.html %}
 
-## Featured
+## 科研项目
 
 {% include list.html component="card" data="projects" filter="group == 'featured'" %}
 
 {% include section.html %}
 
-## More
+## 合作项目
 
 {% include list.html component="card" data="projects" filter="!group" style="small" %}

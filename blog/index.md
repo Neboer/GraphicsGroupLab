@@ -1,14 +1,13 @@
 ---
-title: Blog
+title: 博客
 nav:
   order: 4
-  tooltip: Musings and miscellany
+  tooltip: 工作记录、进展追踪
 ---
 
-# {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
+# {% include icon.html icon="fa-solid fa-feather-pointed" %}博客
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+这里记录了渲染组相关的工作、活动等事宜，也记录了相关的通知和公告等等内容。
 
 {% include section.html %}
 
